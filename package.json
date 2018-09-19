@@ -1,0 +1,12 @@
+{
+  "name": "type-n-speak",
+  "version": "1.0.0",
+  "description": "app that speaks whatever you type",
+  "main": "index.js",
+  "scripts": {
+    "test": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC"
+  "homepage": "https://jamesku1996.github.io/textnspeak"
+}
