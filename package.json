@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://jamesku1996.github.io/textnspeak"
+  "homepage": "https://jamesku1996.github.io/textnspeak",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
 }
